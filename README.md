@@ -8,7 +8,7 @@
 
 ___
 
-**Инструменты и нотации:** Miro (USM/AC), draw.io (DFD L0/L1), Figma (вайрфреймы), Markdown; DFD, Gherkin (AC). 
+**Инструменты и нотации:** Miro (USM/AC), draw.io (DFD L0/L1), Figma (вайрфреймы), DFD, Gherkin (AC). 
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 ---
 
-**Инструменты и нотации:** BPMN 2.0, UML State Machine, draw.io, Markdown. 
+**Инструменты и нотации:** BPMN 2.0, UML State Machine, draw.io. 
 
 ---
 
